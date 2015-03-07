@@ -32,13 +32,21 @@ oXLWorkSheet = oXLWorkbook.worksheet('Sheet1')
 		
           #Open firefox browser
           @browser = Watir::Browser.new :firefox
+<<<<<<< HEAD
+=======
+          @browser.driver.manage.window.maximize
+>>>>>>> 09d2ca01f48212f2df6b9a0c88e88c6cd56a6eb2
           puts "Browser opens"
           $logger.info ("==> Browser opens")
      
           #opens trainingrite web page
           @browser.goto "http://www.trainingrite.net"
           puts "trainingrite web page opens"
+<<<<<<< HEAD
 		  $logger.info("==> trainingrite web page opens")
+=======
+		      $logger.info("==> trainingrite web page opens")
+>>>>>>> 09d2ca01f48212f2df6b9a0c88e88c6cd56a6eb2
 
           @browser.text_field(:name=> 'txtphone').set Username
 		  $logger.info("==> Username entered correctly")
