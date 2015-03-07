@@ -1,0 +1,44 @@
+I, [2015-02-19T19:37:36.548951 #10248]  INFO -- : ==> trainingrite retail site opens
+I, [2015-02-19T19:37:36.823874 #10248]  INFO -- : ==> search value entered correctly
+W, [2015-02-19T19:37:36.824872 #10248]  WARN -- : This line should always run
+I, [2015-02-19T19:37:37.305102 #10248]  INFO -- : ==> Go button clicked
+W, [2015-02-19T19:37:37.305102 #10248]  WARN -- : This line should always run
+I, [2015-02-19T19:37:37.742576 #10248]  INFO -- : ==> panasonic cart button selected
+W, [2015-02-19T19:37:37.743578 #10248]  WARN -- : This line should always run
+I, [2015-02-19T19:37:38.150571 #10248]  INFO -- : ==> Quantity entered
+W, [2015-02-19T19:37:38.151565 #10248]  WARN -- : This line should always run
+I, [2015-02-19T19:37:39.459898 #10248]  INFO -- : ==> checkout button clicked
+W, [2015-02-19T19:37:39.459898 #10248]  WARN -- : This line should always run
+I, [2015-02-19T19:37:39.779829 #10248]  INFO -- : ==> customer name entered correctly
+W, [2015-02-19T19:37:39.779829 #10248]  WARN -- : This line should always run
+I, [2015-02-19T19:37:40.085544 #10248]  INFO -- : ==> Address name given
+W, [2015-02-19T19:37:40.085544 #10248]  WARN -- : This line should always run
+I, [2015-02-19T19:37:40.212585 #10248]  INFO -- : ==> city name entered successfully
+W, [2015-02-19T19:37:40.212585 #10248]  WARN -- : This line should always run
+I, [2015-02-19T19:37:40.338927 #10248]  INFO -- : ==> State name given
+W, [2015-02-19T19:37:40.338927 #10248]  WARN -- : This line should always run
+I, [2015-02-19T19:37:40.476001 #10248]  INFO -- : ==> zip is correct
+W, [2015-02-19T19:37:40.476001 #10248]  WARN -- : This line should always run
+I, [2015-02-19T19:37:40.623039 #10248]  INFO -- : ==> Phone number entered
+W, [2015-02-19T19:37:40.623039 #10248]  WARN -- : This line should always run
+I, [2015-02-19T19:37:40.869349 #10248]  INFO -- : ==> Visa payment selected
+W, [2015-02-19T19:37:40.869349 #10248]  WARN -- : This line should always run
+I, [2015-02-19T19:37:41.016874 #10248]  INFO -- : ==> account_number entered
+W, [2015-02-19T19:37:41.016874 #10248]  WARN -- : This line should always run
+I, [2015-02-19T19:37:41.142070 #10248]  INFO -- : ==> ccv_number entered
+W, [2015-02-19T19:37:41.142070 #10248]  WARN -- : This line should always run
+I, [2015-02-19T19:37:41.278820 #10248]  INFO -- : ==> expiry date entered
+W, [2015-02-19T19:37:41.278820 #10248]  WARN -- : This line should always run
+I, [2015-02-19T19:37:41.403761 #10248]  INFO -- : ==> recepient name entered
+W, [2015-02-19T19:37:41.403761 #10248]  WARN -- : This line should always run
+I, [2015-02-19T19:37:41.574777 #10248]  INFO -- : ==> recepient address entered
+W, [2015-02-19T19:37:41.574777 #10248]  WARN -- : This line should always run
+I, [2015-02-19T19:37:41.722769 #10248]  INFO -- : ==> shipping city entered
+W, [2015-02-19T19:37:41.722769 #10248]  WARN -- : This line should always run
+I, [2015-02-19T19:37:41.858147 #10248]  INFO -- : ==> shipping state entered
+W, [2015-02-19T19:37:41.859129 #10248]  WARN -- : This line should always run
+I, [2015-02-19T19:37:41.984191 #10248]  INFO -- : ==> zip details entered
+W, [2015-02-19T19:37:41.984191 #10248]  WARN -- : This line should always run
+I, [2015-02-19T19:37:42.121250 #10248]  INFO -- : ==> shipping_phone entered
+W, [2015-02-19T19:37:42.121250 #10248]  WARN -- : This line should always run
+I, [2015-02-19T19:37:43.283456 #10248]  INFO -- : ==> order completed
